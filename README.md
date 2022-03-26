@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @munbohr// Woojim Mun
+- 👋 Hi, I’m @munbohr// Woojim Mun, I'm live in kr, I'm 19
 - 👀 I’m interested in ... // JAVA script, html, css, hackthebox, Linux
 - 🌱 I’m currently learning ... // Node JS, JS, html, css and little bit Linux
 - 💞️ I’m looking to collaborate on ...
