@@ -8,13 +8,14 @@
 - <h1>🌱 I’m currently learning ... </h1> 
 - <h3>NodeJS, JS, HTML, CSS, Linux</h3>
 ---
-- 💞️ I’m looking to collaborate on ...
+- <h1> 💞️ I’m looking to collaborate on ...</h1>
+- 
 ---
 - <h1>📫 How to reach me ...</h1> 
 - <h3>Phone: 010-2997-0586 E-mail: tlstn2997kr@naver.com</h3>
 ---
-- <h1></h1>
--# {new Date().getDate()}
+- <h2>In short, I'm an ambitious person.</h2>
+- 
 <!---
 munbohr/munbohr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
